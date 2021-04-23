@@ -11,7 +11,7 @@ function App() {
       <City /> <br />
       <ul className="point">
       <li>Make a call and verify before reaching respective place</li>
-      <li>Make sure to check replies of tweet, Do not make payment prior, Verify their authenticity.</li>
+      <li>Make sure to check replies of tweet, Do not make payment prior, Ensure reliablity.</li>
       <li>This is buid by <a href="https://github.com/Aravindh020">Aravind </a></li></ul>
     </div>
   );
