@@ -12,7 +12,7 @@ function App() {
       <ul className="point">
       <li>Make a call and verify before reaching respective place</li>
       <li>Make sure to check replies of tweet, Do not make payment prior, Ensure reliablity.</li>
-      <li>This is buid by <a href="https://github.com/Aravindh020">Aravind </a></li></ul>
+      <li>This is buid by <a href="https://github.com/Aravindh020">Aravind </a> <a href="https://github.com/Aravindh020/covidoxy/">Contribute to this project</a></li></ul>
     </div>
   );
 }
