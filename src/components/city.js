@@ -95,7 +95,7 @@ export default function city() {
     <Card.Text>
     Verified Nagpur
     (Beds, ICU, Oxygen, Ventilators, fabiflu)<br/>
-    <a href="http://nsscdcl.org/covidbeds/AvailableHospitals.jsp">Thane Hospital beds availability</a>
+    <a href="http://nsscdcl.org/covidbeds/AvailableHospitals.jsp">Nagpur Hospital beds availability</a>
     </Card.Text>
   </Card.Body>
   <Card.Footer>
